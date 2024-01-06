@@ -11,7 +11,9 @@ Samsung Galaxy Note 10 Plus hidden menu secret code working.
 1106 grip Sensor     
 12580*369 main version     
 15987 color balance test
-19242022  CDSP Restriction,Derestriction
+
+19242022  CDSP Restriction, CDSP Derestriction
+
 159874  ???    
 
 2222 FTA hw version       
