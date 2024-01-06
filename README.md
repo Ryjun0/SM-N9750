@@ -1,5 +1,6 @@
-# SM-N9750
+# SM-N9750 #SM-N975F #SM-N975U #SM-N975U #SM-N9760 #SM-N976U #SM-N976N #SM-N976W
 Samsung Galaxy Note 10 Plus hidden menu secret code working.
+Androi 12
 
 0011 service information    
 0228 Battery 
